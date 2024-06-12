@@ -38,7 +38,7 @@ main {
 
 h1 {
     color: #333333;
-    font-size: 24px;
+    font-size: 2em;
     margin-bottom: 10px;
 }
 
@@ -52,7 +52,7 @@ h1 {
 .imgdescription {
     font-size: 14px;
     color: #999999;
-    margin-top: 1em;
+    margin-top: 1rem;
 }
 
 .featured-in {
@@ -70,7 +70,7 @@ h1 {
     border-left-style: solid;
     border-left-width: 2px;
     padding-left: 1em;
-        margin-top: 5px;
+    margin-top: 5px;
     text-align: left;
 }
 
@@ -82,20 +82,20 @@ h1 {
 .ingredients,
 .method {
     text-align: left;
-    margin-top: 20px;
+    margin-top: 2rem;
 }
 
 h2 {
     color: #333333;
-    font-size: 20px;
+    font-size: 1.6em;
     margin-bottom: 10px;
 }
 
 h3 {
     font-size: 18px;
     color: #666666;
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 ul {
